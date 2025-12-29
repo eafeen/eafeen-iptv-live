@@ -70,7 +70,7 @@
       "name": "🍎┃小苹果┃IJK",
       "type": 3,
       "api": "csp_LiteApple",
-      "jar": "./lib/fty.jar",
+      "jar": "./fty.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
